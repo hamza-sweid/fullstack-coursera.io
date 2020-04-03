@@ -1,0 +1,18 @@
+*{
+	box-sizing: border-box;
+}
+
+#chicken{
+	background-color: #e45355;
+	height: 500px;
+}
+
+#beef{
+	background-color: #999;
+	height: 500px
+}
+
+#sushi{
+	background-color: #31f3cf;
+	height: 500px
+}
